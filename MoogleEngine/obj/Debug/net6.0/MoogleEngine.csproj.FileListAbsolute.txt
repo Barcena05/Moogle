@@ -1,0 +1,48 @@
+/home/ernesto/Desktop/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/ernesto/Desktop/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/ernesto/Desktop/moogle-main/MoogleEngine/bin/Debug/net6.0/ref/MoogleEngine.dll
+/home/ernesto/Desktop/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/ernesto/Desktop/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/ernesto/Desktop/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/ernesto/Desktop/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/ernesto/Desktop/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/ernesto/Desktop/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/ernesto/Desktop/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/ernesto/Desktop/moogle-main/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/home/ernesto/Desktop/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/erenesto/Documents/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/erenesto/Documents/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/erenesto/Documents/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/erenesto/Documents/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/erenesto/Documents/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/erenesto/Documents/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/erenesto/Documents/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/erenesto/Documents/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/erenesto/Documents/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/erenesto/Documents/moogle-main/MoogleEngine/obj/Debug/net6.0/refint/MoogleEngine.dll
+/home/erenesto/Documents/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/erenesto/Documents/moogle-main/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/home/ernesto/Documentos/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/ernesto/Documentos/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/ernesto/Documentos/moogle-main/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/ernesto/Documentos/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/ernesto/Documentos/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/ernesto/Documentos/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/ernesto/Documentos/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/ernesto/Documentos/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/ernesto/Documentos/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/ernesto/Documentos/moogle-main/MoogleEngine/obj/Debug/net6.0/refint/MoogleEngine.dll
+/home/ernesto/Documentos/moogle-main/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/ernesto/Documentos/moogle-main/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleEngine/obj/Debug/net6.0/refint/MoogleEngine.dll
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll

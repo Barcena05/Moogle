@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "MoogleEngine/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MoogleEngine.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoogleEngine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoogleEngine/1.0.0": {
+      "type": "project",
+      "path": "../MoogleEngine/MoogleEngine.csproj",
+      "msbuildProject": "../MoogleEngine/MoogleEngine.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "MoogleEngine >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/ernesto/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/MoogleServer.csproj",
+      "projectName": "MoogleServer",
+      "projectPath": "/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/MoogleServer.csproj",
+      "packagesPath": "/home/ernesto/.nuget/packages/",
+      "outputPath": "/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/ernesto/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleEngine/MoogleEngine.csproj": {
+              "projectPath": "/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleEngine/MoogleEngine.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/opt/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

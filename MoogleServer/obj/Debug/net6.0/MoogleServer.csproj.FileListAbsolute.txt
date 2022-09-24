@@ -1,0 +1,120 @@
+/home/ernesto/Desktop/moogle-main/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/ernesto/Desktop/moogle-main/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/ernesto/Desktop/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/ernesto/Desktop/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/ernesto/Desktop/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/ernesto/Desktop/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/ernesto/Desktop/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/ernesto/Desktop/moogle-main/MoogleServer/bin/Debug/net6.0/ref/MoogleServer.dll
+/home/ernesto/Desktop/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/ernesto/Desktop/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/ernesto/Desktop/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/ernesto/Desktop/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/home/erenesto/Documents/moogle-main/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/erenesto/Documents/moogle-main/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/erenesto/Documents/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/erenesto/Documents/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/erenesto/Documents/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/erenesto/Documents/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/erenesto/Documents/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/erenesto/Documents/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/erenesto/Documents/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/erenesto/Documents/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/refint/MoogleServer.dll
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/home/erenesto/Documents/moogle-main/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+/home/ernesto/Documentos/moogle-main/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/ernesto/Documentos/moogle-main/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/ernesto/Documentos/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/ernesto/Documentos/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/ernesto/Documentos/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/ernesto/Documentos/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/ernesto/Documentos/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/ernesto/Documentos/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/ernesto/Documentos/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/ernesto/Documentos/moogle-main/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/refint/MoogleServer.dll
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/home/ernesto/Documentos/moogle-main/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/refint/MoogleServer.dll
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/home/ernesto/Documentos/Moogle! Ernesto Barcena Trujillo C111/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
