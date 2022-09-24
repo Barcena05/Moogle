@@ -3,8 +3,6 @@ using System;
 using System.IO;
 using System.Text;
 using System.Text.RegularExpressions;
-
-
 public static class Moogle
 {   
     public static Universe MyUniverse;
